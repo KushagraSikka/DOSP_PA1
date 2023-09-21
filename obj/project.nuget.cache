@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "THteROEI+dbX6/Wf+uRm/C5cBMLWMHgo3D0QvU/McecwFkd1GI/fIYIjuJA9i7ynXqo3ze/eWTL7rnYYXQIBfw==",
+  "success": true,
+  "projectFilePath": "/Users/kushagrasikka/Desktop/DOSP/NewFSharpProject/NewFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/kushagrasikka/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

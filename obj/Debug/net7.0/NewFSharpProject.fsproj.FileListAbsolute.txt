@@ -1,0 +1,4 @@
+/Users/kushagrasikka/Desktop/DOSP/NewFSharpProject/obj/Debug/net7.0/NewFSharpProject.fsproj.AssemblyReference.cache
+/Users/kushagrasikka/Desktop/DOSP/NewFSharpProject/obj/Debug/net7.0/NewFSharpProject.AssemblyInfoInputs.cache
+/Users/kushagrasikka/Desktop/DOSP/NewFSharpProject/obj/Debug/net7.0/NewFSharpProject.AssemblyInfo.fs
+/Users/kushagrasikka/Desktop/DOSP/NewFSharpProject/obj/Debug/net7.0/NewFSharpProject.fsproj.CoreCompileInputs.cache
